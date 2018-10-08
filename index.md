@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Laborator SE
 
 You can use the [editor on GitHub](https://github.com/SnowFlake1806/SE_Lab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
